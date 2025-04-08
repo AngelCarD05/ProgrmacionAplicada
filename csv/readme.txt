@@ -1,1 +1,1 @@
-Esta carpeta para la tarea de uso de CSV junto a su generación de números randoms entre 0 y 1
+Esta carpeta es para la tarea de uso de CSV junto a su generación de números randoms entre 0 y 1
