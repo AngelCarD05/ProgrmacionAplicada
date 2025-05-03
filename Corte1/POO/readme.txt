@@ -1,0 +1,1 @@
+Esta carpeta son para los ejercicios de POO
