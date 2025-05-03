@@ -1,1 +1,1 @@
-Esta carpeta corresponde a la tarea acerca de Loops
+Esta carpeta es para la tarea de Loops.
